@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-I'm Ahmer Mughal, an iOS & Android Engineer based in Islamabad with 3 years of experience in designing and developing user interfaces, testing, debugging, and eCommerce technologies in iOS (Swift) and Android (Kotlin & Java).
+I'm Ahmer Mughal, an iOS & Android Engineer based in Islamabad with 3 years of experience in designing and developing mobile applications in iOS (Swift) and Android (Kotlin & Java).
 
-Completing my bachelors from [Bahria University, Islamabad](https://www.bahria.edu.pk/buic) in Computer Engineering. I have developed and designed multiple iOS & Android applications ranging from classified ads, e-commerce, social networking, utilities , productivity and more. I am very enthusiastic and passionate about my field and exploring more knowledge in it.
+Completed my bachelors from [Bahria University, Islamabad](https://www.bahria.edu.pk/buic) in Computer Engineering. I have developed and designed multiple iOS & Android applications ranging from IoT, classified ads, e-commerce, social networking, utilities , productivity and more. I am very enthusiastic and passionate about my field and exploring more knowledge in it.
 
 ### Connect with me:
 
 [<img align="left" alt="ahmermughal.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="aitsam | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="aitsam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ahmer | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="ahmer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -18,12 +18,12 @@ Here are a few technologies 🔭 I’m currently working on with recently:
   - Swift
   - Kotlin
   - Java
+  - Combine
   - RxSwift
   - RxAndroid
-  - Reactive Programming
+  - WatchOS
   - Payment Integration (Apple Pay)
-  - Firebase Cloud Messaging
-  - Firebase Authentication
+  - Firebase
   - RESTful API(s)
   
 <br />

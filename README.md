@@ -18,12 +18,14 @@ Here are a few technologies 🔭 I’m currently working on with recently:
   - Swift
   - Kotlin
   - Java
+  - Combine
   - RxSwift
   - RxAndroid
   - Reactive Programming
   - Payment Integration (Apple Pay)
-  - Firebase Cloud Messaging
-  - Firebase Authentication
+  - WatchOS
+  - Firebase
+  - AWS
   - RESTful API(s)
   
 <br />

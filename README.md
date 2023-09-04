@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ahmer Mughal, an iOS & Android Engineer based in Islamabad with 3 years of experience in designing and developing mobile applications in iOS (Swift) and Android (Kotlin & Java).
+I'm Ahmer Mughal, an iOS & Android Engineer with 3 years of experience in designing and developing mobile applications in iOS (Swift) and Android (Kotlin & Java).
 
 Completed my bachelors from [Bahria University, Islamabad](https://www.bahria.edu.pk/buic) in Computer Engineering. I have developed and designed multiple iOS & Android applications ranging from IoT, classified ads, e-commerce, social networking, utilities , productivity and more. I am very enthusiastic and passionate about my field and exploring more knowledge in it.
 
